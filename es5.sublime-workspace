@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"search",
+				"searchingSelector	nice.search.js"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"setUp",
+				"setupIScroll()	nice.search.js"
+			],
+			[
+				"ISCROLL",
+				"ISCROLL_RENDER_EVENT	nice.search.js"
+			],
+			[
+				"resultC",
+				"resultClicked(event)	nice.search.js"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"SEARCH",
+				"SEARCH_COMPLETE_EVENT	nice.search.js"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"normal",
+				"normalizeString(string)	nice.resultsrelevancestrategy.js"
+			],
+			[
+				"NiceS",
+				"NiceSearchFilters()	nice.search.filters.js"
+			],
+			[
+				"Nice",
+				"NiceSearchView()	nice.nicesearchview.js"
+			],
+			[
+				"NiceSea",
+				"NiceSearchBox()	nice.searchbox.js"
+			],
+			[
+				"fulfi",
+				"fulfillsInterface	nice.iscrolladapter.spec.js"
+			],
+			[
+				"noRes",
+				"noResultsSelector	nice.searchstatus.js"
+			],
+			[
+				"output",
+				"outputSelector	nice.nicesearchview.js"
+			],
+			[
+				"getREs",
+				"getResultClassName(result)	nice.searchresultsbuilder.js"
+			],
+			[
+				"relevan",
+				"relevanceSort(first, second)	nice.dbhelper.js"
+			],
+			[
+				"defaul",
+				"defaultTimeoutInterval	nice.dbhelper.spec.js"
+			],
+			[
+				"datab",
+				"databaseConfig	nice.dbhelper.js"
+			],
+			[
+				"nor",
+				"normalizeTerm(term)	nice.nicesearch.js"
+			],
+			[
+				"searchRes",
+				"searchResultsHash	sequencer.htm"
+			],
+			[
+				"searchRe",
+				"searchResultsHash	sequencer.htm"
+			],
+			[
+				"refreshTimer",
+				"refreshTimerDelay	nice.search.js"
+			],
+			[
+				"iSc",
+				"iScrollRefreshPending	nice.search.js"
+			],
+			[
+				"autoSear",
+				"autoSearchIsPending	nice.search.js"
+			],
+			[
+				"refreshS",
+				"refreshScroll()	nice.breadcrumb.js"
+			],
+			[
+				"Jason",
+				"JasonPath2(path)	jason.path2.js"
+			],
+			[
+				"nom",
+				"normalizedPaths"
+			],
+			[
+				"query",
+				"query"
+			],
+			[
+				"norm",
+				"normalize"
+			],
+			[
+				"NO",
+				"NOT_CONNECTED_TITLE	nice.util.js"
+			],
+			[
+				"ret",
+				"retryCount	nice.download.js"
+			],
+			[
+				"enab",
+				"enableLeftPanelIScroll(config)	nice.mobile.js"
+			],
+			[
+				"enabe",
+				"enableWrapperIScroll(config)	nice.mobile.js"
+			],
+			[
+				"ena",
+				"enableWrapperIScroll(config)	nice.mobile.js"
+			],
+			[
+				"enable",
+				"enableWrapperIScroll()	nice.mobile.js"
+			],
+			[
+				"uri",
+				"_uri	nice.content.js"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"symbol",
+				"symbolElement	nice.content.js"
+			],
+			[
+				"sy",
+				"symbolImgs	nice.content.js"
+			],
+			[
+				"File",
+				"FileWriter"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Github/mobile.medicines/public/search.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.js",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/assets/js/nice.min.js",
+		"/C/Github/mobile.medicines/dev/search-new.html",
+		"/C/Github/mobile.medicines/public/assets/css/nicem.css",
+		"/C/Github/mobile.medicines/public/appendices.html",
+		"/C/Github/mobile.medicines/public/bookmarks.html",
+		"/C/Github/mobile.medicines/public/breadcrumb.html",
+		"/C/Github/mobile.medicines/public/chapters.html",
+		"/C/Github/mobile.medicines/public/preliminary.html",
+		"/C/Users/cbodart/Desktop/stopImmProp.js",
+		"/C/Users/cbodart/Desktop/defineProperty.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.breadcrumb.js",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/appendices.html",
+		"/C/Github/mobile.medicines/dev/appendices.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.content.js",
+		"/C/Github/mobile.medicines/public/landing.tablet.html",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/preliminary.html",
+		"/C/Github/mobile.medicines/public/formulary.tablet.html",
+		"/C/Github/mobile.medicines/dev/settings-dev.html",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/chapters.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.settings.js",
+		"/C/Github/mobile.medicines/public/index.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.page.js",
+		"/C/ie/webby.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.orientation.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.links.js",
+		"/C/Github/mobile.medicines/dev/js/cordovashim.js",
+		"/C/ie/webby.html",
+		"/C/ie/index.htm",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/landing.html",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/copy_src.sh",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/assets/js/nice/nice.min.js",
+		"/C/Github/mobile.medicines/public/landing.html",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/bookmarks.html",
+		"/C/Github/mobile.medicines/dev/bookmarks-new.html",
+		"/C/Github/mobile.medicines/public/assets/js/external/iscroll-zoom.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.mobile.js",
+		"/C/Github/mobile.medicines/public/assets/js/external/iscroll.js",
+		"/C/Github/mobile.medicines/public/content.html",
+		"/C/Github/mobile.medicines/public/content.tablet.html",
+		"/C/Github/mobile.medicines/dev/index.html",
+		"/C/Github/mobile.medicines/dev/json/config.js",
+		"/C/Github/mobile.medicines/node_modules/jshint/node_modules/console-browserify/test/static/index.html",
+		"/C/Github/mobile.medicines/node_modules/jshint/node_modules/console-browserify/index.js",
+		"/C/Github/mobile.medicines/node_modules/jshint/node_modules/htmlparser2/test/Events/21-entity_in_attribute.json",
+		"/C/Github/mobile.medicines/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream-ignore/test/nested-ignores.js",
+		"/C/Github/mobile.medicines/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream-ignore/node_modules/minimatch/test/extglob-ending-with-state-char.js",
+		"/C/Github/mobile.medicines/node_modules/jshint/node_modules/htmlparser2/node_modules/domhandler/test/cases/05-tags_in_comment.json",
+		"/C/Github/mobile.medicines/node_modules/jshint/node_modules/htmlparser2/node_modules/domhandler/test/cases/19-ignore_empty_tags.json",
+		"/C/Github/mobile.medicines/build/ios/BNF/CordovaLib/Classes/CDVCommandDelegateImpl.h",
+		"/C/Github/mobile.medicines/tools/phantomjs-1.9.0-windows/examples/direction.coffee",
+		"/C/Github/mobile.medicines/public/bookmarks-new.html",
+		"/C/Github/mobile.medicines/dev/js/nice.nativeiscroll.js",
+		"/C/Github/mobile.medicines/public/content-new.html",
+		"/C/Github/mobile.medicines/public/search-new.html",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/assets/js/external/lib.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/dev/cordovashim.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/dev/login.json",
+		"/C/Github/mobile.medicines/public/undefined",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/search-new.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.bookmark.js",
+		"/C/Github/mobile.medicines/public/assets/css/nicemTablet.css",
+		"/C/Github/mobile.medicines/public/landing.tablet-dev.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.nativeiscroll.js",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/assets/css/nicemTablet.css",
+		"/C/Github/mobile.medicines/tests/nice.search.html",
+		"/C/Github/mobile.medicines/tests/SpecRunner.html",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/content.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.search.js",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/content-new.html",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/landing.tablet-dev.html",
+		"/C/Github/mobile.medicines/public/chapters-new.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.util.js",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/assets/css/nicem.css",
+		"/C/Github/mobile.medicines/build/android/NICEBNF/assets/www/search.html",
+		"/C/Github/mobile.medicines/public/content/setup.sql",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.iscrolladapter.js",
+		"/C/Users/cbodart/Desktop/nice.search.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.searchfilters.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.searchresultsbuilder.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.searchbox.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.dbhelper.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.nicesearch.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.searchstatus.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search.all/nice.resultsrelevancestrategy.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.nicesearch.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchbox.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchview.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchterm.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.resultsrelevancestrategy.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.iscrolladapter.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchrelevancestrategy.spec.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.dbhelper.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchstatus.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.search.spec.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.dbhelper.spec.js",
+		"/C/Users/cbodart/Desktop/all.js",
+		"/C/Github/mobile.medicines/tests/content/setup.sql",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchresultsbuilder.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchfilters.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchview.spec.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.iscrolladapter.spec.js",
+		"/C/Github/mobile.medicines/tests/helpers/nice.spec.helpers.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchfilters.spec.js",
+		"/C/Github/mobile.medicines/tests/nice.searchview.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.events.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchstatus.spec.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchbox.spec.js",
+		"/C/Github/mobile.medicines/public/image.html",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchfilter.spec.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchfilter.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchterm.spec.js",
+		"/C/Github/mobile.medicines/tests/spec/nice.searchresultsbuilder.spec.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.searchcontroller.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.intent.js",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.data.js",
+		"/C/Github/mobile.medicines/public/settings.html",
+		"/C/Github/mobile.medicines/public/table.html",
+		"/C/Github/mobile.medicines/public/welcome.html",
+		"/C/Github/mobile.medicines/public/download.html",
+		"/C/Github/mobile.medicines/public/formulary.html",
+		"/C/Github/mobile.medicines/public/full.tablet.html",
+		"/C/Github/mobile.medicines/public/login.html",
+		"/C/Github/mobile.medicines/public/preparing.html",
+		"/C/Github/mobile.medicines/public/assets/js/nice/nice.search..js",
+		"/C/Github/mobile.medicines/.gitignore",
+		"/C/Github/mobile.medicines/tests/lib/jquery.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.css",
+			"*.js",
+			"*.*",
+			"*.css",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.*",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.*",
+			"*.js",
+			"*.css",
+			"*.sql",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"spec/*.js",
+			"*.js",
+			"*.html",
+			"*.txt,C:\\Github\\mobile.medicines\\tests\\content",
+			"*.js",
+			"C:\\Github\\mobile.medicines\\,*.java",
+			"C:\\Github\\mobile.medicines\\public\\assets",
+			"C:\\Github\\mobile.medicines\\public\\assets\\js",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.js",
+			"*.*",
+			"*.xml",
+			"*.js",
+			"*.*",
+			"*.xml",
+			"*.js",
+			"*.*",
+			"*.js",
+			"",
+			"*.js",
+			"*.css",
+			"*.html",
+			"*.js",
+			"*.xml",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.*",
+			"config.xml",
+			"cconfig.xml",
+			"",
+			"*.js",
+			"*.css",
+			"*.html",
+			"*.js",
+			"*.css",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.min.js",
+			"",
+			"*.js",
+			".js",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"*.css",
+			"",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DOMTokenList",
+			"hideKeyboard",
+			"Filters",
+			"&",
+			"setTimeo",
+			"console",
+			"scroller",
+			"#SCROLLER",
+			".BOOKMARKS",
+			"content",
+			"shiny-list",
+			"bookmarkList",
+			"ui-content",
+			"bookmarks",
+			".arrow",
+			"console.log",
+			"appendi",
+			"<li",
+			"listview",
+			"appendi",
+			"append",
+			".listview",
+			"appendi",
+			"append",
+			"listview",
+			"data-role=\"listview\"",
+			"removeAtt",
+			"removeAttribute",
+			"\"wrapper\"",
+			"new ISceroll",
+			"new iScroll",
+			"SEARCH_RENDER_EVENT",
+			"console",
+			"CustomEve",
+			"remove",
+			".remove",
+			"remove",
+			"remove(",
+			"resultClicked",
+			"click",
+			"iScrollAda",
+			"console",
+			"Config",
+			"destroy",
+			"scroller",
+			"innerHTML",
+			"Adapter",
+			"nicem.iScroll",
+			"orientationChanged",
+			"nicem.iScroll",
+			"staticpage",
+			"staticpage.init",
+			"setupScroll",
+			"new iScroll",
+			"setupPage",
+			"staticpage.init",
+			"this.searchingStyle",
+			"this.noFiltersStyle",
+			"this.noResultsStyle",
+			"config",
+			"dimensionDelay",
+			"blur",
+			"setupScroll",
+			".iScroll",
+			"tablet",
+			"landing-tablet",
+			"deviceready",
+			"changeContentPage",
+			"scrollToElement",
+			"touchend",
+			"monobutton",
+			"RESET",
+			"results: ",
+			"reset",
+			"requestAnim",
+			"dbHelper",
+			"click",
+			"scroll",
+			"apply",
+			"dispatch",
+			"util",
+			"fixCharset",
+			"loud-menu",
+			"monograph",
+			"search",
+			"intent",
+			"requestSearchGranted",
+			"REQUEST",
+			"dbhelper",
+			"dispatchEvent",
+			"SEARCH_COMPLETE_EVENT",
+			"searchResults",
+			"searchRelevance",
+			"searchRevelance",
+			"_searchRelevance_",
+			"relevance",
+			"trim",
+			"trim()",
+			".replace",
+			"console",
+			"<",
+			"replace",
+			"click",
+			"window.open",
+			"bookmar",
+			"webkit-tap",
+			"mousedown",
+			"new Event",
+			"monograph",
+			"setAttribute",
+			"searchField",
+			"filters",
+			"setAttribute",
+			"Status",
+			"clearResults",
+			"monograph-submenu",
+			"monograph",
+			"getContent",
+			"contenttype",
+			"HW",
+			"config",
+			"filters",
+			"filter",
+			".listview",
+			".formulary",
+			"chapterList",
+			"landing-left",
+			"clearRes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"document.querySelector(this.searchingSelector).style",
+			"document.querySelector(this.noFiltersSelector).style",
+			"document.querySelector(this.noResultsSelector).style",
+			"FakeUser",
+			"#",
+			"\"",
+			"",
+			"\n//",
+			" ",
+			" \n",
+			"\n",
+			"",
+			"\n",
+			"currentResult",
+			"currentMode",
+			"this.",
+			"CDV",
+			"com.adobe.plugins.GAPlugin",
+			"new IScroll",
+			".iScroll",
+			"IScroll",
+			"Chapter Zero "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "es5.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 391.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

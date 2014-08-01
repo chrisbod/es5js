@@ -1,0 +1,99 @@
+<html>
+	<head>
+		<script src="../src/DOMTokenList.js"></script>
+
+		<script>
+
+    if (!this.Event || typeof this.Event == "object") {
+    	(function () {
+    		for (var i=0, eventType;i<arguments.length;i++) {
+    			eventType = arguments[i];
+    			this[eventType] = new Function ("var e=document.createEvent('"+eventType+"');e.init"+eventType+".apply(e,arguments);return e");
+    			this[eventType].prototype = document.createEvent(eventType).constructor.prototype;
+    		}
+
+    	}) (
+    		'Event',
+    		'KeyboardEvent',
+    		'MouseEvent',
+    		'UIEvent'
+    	);
+		this.CustomEvent = function(type, bubbles, cancelable, detail) {
+			parameters = parameters || {};
+			var event = document.createEvent('Event');
+			event.initEvent(type, bubbles, cancelable);
+			event.detail = parameters.detail;
+			return event;
+	    };
+	    CustomEvent.prototype = Object.create(Event.prototype);
+	    CustomEvent.prototype.constructor = CustomEvent;
+	    this.TouchEvent = function(type,bubbles,cancelable,view,detail,screenX,screenY,clientX,clientY,ctrlKey,altKey,shiftKey,metaKey,touches,targetTouches,changedTouches,scale,rotation) {
+			parameters = parameters || {};
+			var event = document.createEvent('Event');
+			event.initEvent(type, bubbles, cancelable);
+			event.detail = parameters.detail;
+			return event;
+	    }
+	    TouchEvent.prototype = Object.create(Event.prototype);
+	    TouchEvent.prototype.constructor = TouchEvent;
+
+	}
+	if (typeof EventTarget == "undefined") {
+		(function (EventTarget) {
+			this.EventTarget = EventTarget
+		})(
+		function EventTarget() {}
+		);
+
+		// ;NOT GOOD...
+		window.__proto__.__proto__ = HTMLElement.prototype.__proto__.__proto__.__proto__ = document.__proto__.__proto__.__proto__ = EventTarget.prototype;
+	}
+	if (typeof Event.prototype.stopImmediatePropagation == "undefined") {
+		/*EventTarget._addEventListener = EventTarget.addEventListener;
+		EventTarget.addEventListener = function (type,listener,capture) {
+    		if (!listener._stopImmediatePropagationClosure) {
+    			if (typeof listener == "function") {
+    				listener._stopImmediatePropagationClosure = function (event) {
+    					if (!event._immediatePropagationStopped) {
+    						listener(event)
+    					}
+    				}
+    			} else {
+    				listener._stopImmediatePropagationClosure = function (event) {
+    					if (!event._immediatePropagationStopped) {
+    						listener.handleEvent(event)
+    					}
+    				}
+    			}
+
+    		}
+    		return this._addEventListener(type, listener._stopImmediatePropagationClosure, capture);
+    	};
+		EventTarget._removeEventListener = prototypes[i].removeEventListener;
+		EventTarget.removeEventListener = function (type,listener,capture) {
+    		this._removeEventListener(type, listener._stopImmediatePropagationClosure||listener, capture);
+    	};
+		Event.prototype.stopImmediatePropagation = function () {
+    		this._immediatePropagationStopped = true;
+    		this.stopPropagation();
+    	}*/
+	}
+
+	alert(document.addEventListener == window.addEventListener)
+
+
+    
+
+
+
+  
+
+
+		</script>
+	</head>
+	<body>
+	<b>TOKEN</b>
+
+	</body>
+
+</html>
